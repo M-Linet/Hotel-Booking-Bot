@@ -1,0 +1,28 @@
+{
+    "intents": [
+        {
+            "intent": "greeting",
+            "examples": ["Hello", "Hi", "Good morning", "Hey"]
+        },
+        {
+            "intent": "book_room",
+            "examples": ["I want to book a room", "Book a room for me", "I need a room"]
+        },
+        {
+            "intent": "check_availability",
+            "examples": ["Are there any rooms available?", "Do you have rooms free?", "Check room availability"]
+        },
+        {
+            "intent": "cancel_booking",
+            "examples": ["I want to cancel my booking", "Cancel my reservation", "I need to cancel"]
+        },
+        {
+            "intent": "view_booking",
+            "examples": ["Can I see my booking details?", "Show my booking", "I want to check my reservation"]
+        },
+        {
+            "intent": "farewell",
+            "examples": ["Goodbye", "See you later", "Bye"]
+        }
+    ]
+}
